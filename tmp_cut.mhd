@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 84
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -9.76574 140.625 830
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.976562 0.976562 1.25
+DimSize = 21 20 16
+ElementType = MET_FLOAT
+ElementDataFile = tmp_cut.zraw
